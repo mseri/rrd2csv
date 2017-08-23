@@ -4,5 +4,5 @@
  ((name rrd2csv)
   (public_name rrd2csv)
   (package rrd2csv)
-  (libraries (threads xcp.rrd xapi-client))
+  (libraries (threads xapi-client xapi-rrd))
  ))
